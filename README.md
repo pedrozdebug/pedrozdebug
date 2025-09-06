@@ -60,10 +60,10 @@ sou **pedro (pdz)**, dev aprendiz explorando o mundo da programação. gosto de 
 ## 📊 métricas
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?https://github.com/pedrozdebug&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/pedrozdebug&layout=compact&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pedrozdebug&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozdebug&layout=compact&theme=transparent&hide_border=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com?https://github.com/pedrozdebug&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=pedrozdebug&theme=transparent&hide_border=true" />
 </div>
 
 ---
