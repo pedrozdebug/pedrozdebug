@@ -28,11 +28,8 @@ sou **pedro (pdz)**, dev aprendiz explorando o mundo da programação. gosto de 
 * 🔭 **Atualmente trabalhando em:** projetos de aprendizado e exercícios do curso FST
 * 🌱 **Aprendendo agora:** HTML • CSS • JavaScript • Node.js • Express • PostgreSQL • Docker • Linux
 * 👯 **Buscando colaborar em:** pequenos projetos open source para praticar
-* 🤔 **Preciso de ajuda com:** boas práticas de backend e deploy
-* 💬 **Pergunte-me sobre:** Git/GitHub, Roblox Studio e programação básica
 * 📫 **Como falar comigo:** https://github.com/pedrozdebug
-* 😄 **Pronomes:** ele/dele (he/him)
-* ⚡ **Curiosidade:** já fiz projetos com ESP32 e amo customizar Linux 
+* 😄 **Pronomes:** ele/dele (he/him) 
 
 ---
 
