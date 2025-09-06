@@ -30,9 +30,9 @@ sou **pedro (pdz)**, dev aprendiz explorando o mundo da programação. gosto de 
 * 👯 **Buscando colaborar em:** pequenos projetos open source para praticar
 * 🤔 **Preciso de ajuda com:** boas práticas de backend e deploy
 * 💬 **Pergunte-me sobre:** Git/GitHub, Roblox Studio e programação básica
-* 📫 **Como falar comigo:** github.com/seu-usuario
+* 📫 **Como falar comigo:** https://github.com/pedrozdebug
 * 😄 **Pronomes:** ele/dele (he/him)
-* ⚡ **Curiosidade:** já customizei meu Arch Linux com Hyprland e curto brincar com ESP32
+* ⚡ **Curiosidade:** já fiz projetos com ESP32 e amo customizar Linux 
 
 ---
 
