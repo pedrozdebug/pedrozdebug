@@ -18,7 +18,7 @@ sou **pedro (pdz)**, dev aprendiz explorando o mundo da programação. gosto de 
 
 ## 🎓 cursos
 
-* **atual:** Full Stack Training (FST)
+* **atual:** Full Stack Turbo (FST)
 * **já fiz:** Introdução ao HTML e CSS • Lógica de Programação • Fundamentos de Git/GitHub
 
 ---
