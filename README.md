@@ -48,8 +48,4 @@ opa, me chamo **pedro**, sou dev aprendiz, gosto de testar e criar coisas novas.
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
-  <img src="https://streak-stats.demolab.com?user=pedrozdebug&theme=transparent&hide_border=true" />
 </div>
-
----
-
