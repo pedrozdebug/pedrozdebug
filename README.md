@@ -1,7 +1,5 @@
 # 🛰️ pdz
 
-> *sempre aprendendo • full stack em progresso • aluno do FST*
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning-7c3aed" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-0ea5e9" />
@@ -10,25 +8,22 @@
 
 ---
 
-## 👋 sobre mim
+## 👋 sobre mim/About-me
 
-sou **pedro (pdz)**, dev aprendiz explorando o mundo da programação. gosto de estudar, testar e criar coisas novas.
+opa, me chamo **pedro**, sou dev aprendiz, gosto de testar e criar coisas novas.
 
 ---
 
 ## 🎓 cursos
 
 * **atual:** Full Stack Turbo (FST)
-* **já fiz:** Introdução ao HTML e CSS • Lógica de Programação • Fundamentos de Git/GitHub
 
 ---
 
 ## ✨ info rápida
 
-* 🔭 **Atualmente trabalhando em:** projetos de aprendizado e exercícios do curso FST
-* 🌱 **Aprendendo agora:** HTML • CSS • JavaScript • Node.js • Express • PostgreSQL • Docker • Linux
-* 👯 **Buscando colaborar em:** pequenos projetos open source para praticar
-* 📫 **Como falar comigo:** https://github.com/pedrozdebug
+* 🔭 **Atualmente trabalhando em:** curso FST, PedsxzUI Roblox Executor
+* 🌱 **Aprendendo agora:** HTML • CSS • JavaScript • Node.js • Express • PostgreSQL • Docker • Linux • C# • Lua
 * 😄 **Pronomes:** ele/dele (he/him) 
 
 ---
@@ -36,7 +31,7 @@ sou **pedro (pdz)**, dev aprendiz explorando o mundo da programação. gosto de 
 ## 🧰 tecnologias que estudo
 
 * 🌐 **frontend:** html • css • javascript
-* ⚙️ **backend:** node • express
+* ⚙️ **backend:** node • express • C# • Lua
 * 🗄️ **banco de dados:** sqlite • postgres
 * 🐧 **extra:** docker • linux • git/github
 
@@ -50,16 +45,9 @@ sou **pedro (pdz)**, dev aprendiz explorando o mundo da programação. gosto de 
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-111?logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
-
----
-
-## 📊 métricas
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pedrozdebug&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozdebug&layout=compact&theme=transparent&hide_border=true" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=pedrozdebug&theme=transparent&hide_border=true" />
 </div>
 
